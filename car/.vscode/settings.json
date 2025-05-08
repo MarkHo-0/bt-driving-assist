@@ -1,0 +1,23 @@
+{
+    "stm32-for-vscode.openOCDPath": false,
+    "stm32-for-vscode.makePath": false,
+    "stm32-for-vscode.armToolchainPath": false,
+    "C_Cpp.default.compilerPath": "C:/msys64/mingw32/bin/gcc.exe",
+    "files.associations": {
+        "stdint.h": "c",
+        "type_traits": "c",
+        "compare": "c",
+        "stm32f1xx_hal.h": "c",
+        "car_scanner.h": "c",
+        "car_motion_sensors.h": "c",
+        "math.h": "c",
+        "string.h": "c",
+        "cmath": "c",
+        "cstdlib": "c",
+        "car_vector.h": "c",
+        "cstdint": "c",
+        "limits": "c",
+        "car_setting.h": "c",
+        "ff.h": "c"
+    }
+}
